@@ -1,3 +1,4 @@
+<img width="auto" src= https://github.com/GabrielCorreia/GabrielCorreia/blob/main/oops.png>
 ### Hi there 👋
 
 <!--
